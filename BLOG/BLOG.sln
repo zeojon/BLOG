@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLOG", "BLOG\BLOG.csproj", "{E243DB82-8D0D-48C9-B126-EA1A40ABDB4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{EE1065A7-6FD1-478C-BC18-DFEE692D65F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5D239232-B1C7-48B3-AA22-B2311CDDFD64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{E243DB82-8D0D-48C9-B126-EA1A40ABDB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E243DB82-8D0D-48C9-B126-EA1A40ABDB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E243DB82-8D0D-48C9-B126-EA1A40ABDB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1065A7-6FD1-478C-BC18-DFEE692D65F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1065A7-6FD1-478C-BC18-DFEE692D65F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1065A7-6FD1-478C-BC18-DFEE692D65F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1065A7-6FD1-478C-BC18-DFEE692D65F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D239232-B1C7-48B3-AA22-B2311CDDFD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D239232-B1C7-48B3-AA22-B2311CDDFD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D239232-B1C7-48B3-AA22-B2311CDDFD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D239232-B1C7-48B3-AA22-B2311CDDFD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
